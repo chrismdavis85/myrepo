@@ -30,3 +30,8 @@ for (var j = 2; numPrimes > primeArray.length; j++){
 fs.writeFileSync(outfile, primeArray.toString(), /n);
 
 console.log("This should be printed in primes2.txt: " + primeArray.toString());
+
+//adding a comment here to see what it will look like
+//adding another
+
+
